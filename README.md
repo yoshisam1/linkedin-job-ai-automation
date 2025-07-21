@@ -1,5 +1,7 @@
 ### Quick Setup Guide
 
+![Workflow Overview](workflow.png)
+
 Here are the key steps to get job search automation up and running with n8n.
 
 What you need:
